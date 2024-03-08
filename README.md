@@ -9,7 +9,7 @@ Python script to convert png files into webp.
 1.  Clone the repository.
 
 ```
-git clone https://github.com/Calesi19/Desktop-Organizer-Script.git
+git clone https://github.com/Calesi19/PNG-to-WEBP.git
 ```
 
 2.  Navigate to the project directory.
