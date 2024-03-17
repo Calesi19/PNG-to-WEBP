@@ -2,7 +2,7 @@
 
 ![Banner](docs/banner.webp)
 
-Python script to convert png files into webp.
+Python script to convert image files into webp. This works with all image types, not just PNGs.
 
 # How to use
 
@@ -44,7 +44,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-6. Place your PNG images into the "images_png" folder.
+6. Place your images into the "images" folder.
 
 7. Run the script.
 
